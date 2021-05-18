@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🌱 I’m currently learning **HTML,Python, JavaScript**
+- 🌱 I’m currently learning **HTML, Python, JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nick-Chicken](https://github.com/Nick-Chicken)
 
