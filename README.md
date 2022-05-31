@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nick-chicken&label=Profile%20views&color=ff0000&style=flat-square" alt="nick-chicken" /> </p>
+https://count.getloli.com/get/@:Nick-Chicken?theme=gelbooru
 
 - 🌱 I’m currently learning **HTML, Python, JavaScript**
 
