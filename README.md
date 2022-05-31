@@ -1,6 +1,6 @@
 <h3 align="center">A passionate developer from Turkey</h3>
 
-https://count.getloli.com/get/@:Nick-Chicken?theme=gelbooru
+<img src="https://count.getloli.com/get/@:Nick-Chicken?theme=gelbooru" alt="Nick-Chicken" />
 
 - 🌱 I’m currently learning **HTML, Python, JavaScript**
 
